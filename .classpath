@@ -2,11 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/Chat/JARS/commons-cli-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/Chat/JARS/commons-io-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/Chat/JARS/hamcrest-core.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/Chat/JARS/junit.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/Chat/JARS/rabbitmq-client.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/Chat/JARS/rabbitmq-client-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/rabbit-ds3/rabbit-messenger-web/JARS/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/rabbit-ds3/rabbit-messenger-web/JARS/commons-io-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/rabbit-ds3/rabbit-messenger-web/JARS/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/rabbit-ds3/rabbit-messenger-web/JARS/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/rabbit-ds3/rabbit-messenger-web/JARS/rabbitmq-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tonny/workspace/rabbit-ds3/rabbit-messenger-web/JARS/rabbitmq-client-tests.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
